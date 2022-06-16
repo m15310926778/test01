@@ -1,0 +1,4 @@
+/Users/zhengxu/CLionProjects/PK/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhengxu/CLionProjects/PK/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhengxu/CLionProjects/PK/cmake-build-debug/CMakeFiles/01.dir
+/Users/zhengxu/CLionProjects/PK/cmake-build-debug/CMakeFiles/PK.dir

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PK"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/zhengxu/CLionProjects/PK/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/zhengxu/CLionProjects/PK/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/zhengxu/CLionProjects/PK/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="01">
+				<Option output="/Users/zhengxu/CLionProjects/PK/cmake-build-debug/01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhengxu/CLionProjects/PK/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 01"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="01/fast">
+				<Option output="/Users/zhengxu/CLionProjects/PK/cmake-build-debug/01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhengxu/CLionProjects/PK/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 01/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PK">
+				<Option output="/Users/zhengxu/CLionProjects/PK/cmake-build-debug/PK" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhengxu/CLionProjects/PK/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 PK"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PK/fast">
+				<Option output="/Users/zhengxu/CLionProjects/PK/cmake-build-debug/PK" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhengxu/CLionProjects/PK/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 PK/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhengxu/CLionProjects/PK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/zhengxu/CLionProjects/PK/main.cpp">
+			<Option target="PK"/>
+		</Unit>
+		<Unit filename="/Users/zhengxu/CLionProjects/PK/speaker.h">
+			<Option target="01"/>
+		</Unit>
+		<Unit filename="/Users/zhengxu/CLionProjects/PK/speechManager.cpp">
+			<Option target="01"/>
+		</Unit>
+		<Unit filename="/Users/zhengxu/CLionProjects/PK/speechManager.h">
+			<Option target="01"/>
+		</Unit>
+		<Unit filename="/Users/zhengxu/CLionProjects/PK/演讲比赛管理.cpp">
+			<Option target="01"/>
+		</Unit>
+		<Unit filename="/Users/zhengxu/CLionProjects/PK/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

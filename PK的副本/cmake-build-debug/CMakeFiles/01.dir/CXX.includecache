@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhengxu/CLionProjects/PK/speaker.h
+iostream
+-
+algorithm
+-
+deque
+-
+
+/Users/zhengxu/CLionProjects/PK/speechManager.cpp
+speechManager.h
+/Users/zhengxu/CLionProjects/PK/speechManager.h
+speaker.h
+/Users/zhengxu/CLionProjects/PK/speaker.h
+
+/Users/zhengxu/CLionProjects/PK/speechManager.h
+iostream
+-
+vector
+-
+map
+-
+speaker.h
+/Users/zhengxu/CLionProjects/PK/speaker.h
+deque
+-
+functional
+-
+numeric
+-
+fstream
+-
+
